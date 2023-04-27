@@ -1,6 +1,6 @@
 # Favs
 
-[John Schulman](https://news.berkeley.edu/2023/04/20/chatgpt-architect-berkeley-alum-john-schulman-on-his-journey-with-ai/)
+1/ [John Schulman](https://news.berkeley.edu/2023/04/20/chatgpt-architect-berkeley-alum-john-schulman-on-his-journey-with-ai/)
 ### Why did you choose Berkeley for graduate school?
 
 I had a good feeling about it, and I liked the professors I talked to during visit day.
