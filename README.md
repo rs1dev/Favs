@@ -16,3 +16,39 @@ So, I ended up being really surprised at how much it caught on with the general 
 2/ [Yann LeCun's Twitter](https://twitter.com/ylecun?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) . 
 
 3/ [Sal Khan TED talk](https://www.youtube.com/watch?v=hJP5GqnTrNo), May 1 2023
+
+4/ [IBM CEO #Think2023 Talk: Hybrid cloud and AI = digital revolution](https://www.linkedin.com/events/7056280813184716800/comments/)
+
+*0-20:00*
+
+Technology = source of competitive advantage:  
+- scale a business (globally) 
+- cut cost and get more productive
+- work with urgency 
+
+Challenges right now: 
+- pandemic 
+- inflation 
+- interest rates 
+- geopolitics 
+- supply-chain 
+- cybersecurity 
+
+2 Transformative Technologies 
+- Hybrid Cloud
+  - 77% of businesses prefer this architecture  
+  - RedHat OpenShift platform supports containers built on open-source 
+- AI 
+  - 2017-23 AI use 2x (30-40% in use) 
+  - expected to unlock $16T work/productivity...how? 
+  - enterprise: HR, pricing, supply-chain, inventory,..., all the processes to run a business
+    - needs to be accurate at such a large-scale  
+    - 70% ppl in software involved in maintenance and operations; if that's cut down to 30% then productivity will rise 
+    - SAP has embedded Watson AI as a natural langugage interface on -
+  - consumer: 
+
+
+Quantum Computing 
+- not science fiction lol 
+- IBM has over 20 real quantum computers accessible on cloud and for anyone to use
+
