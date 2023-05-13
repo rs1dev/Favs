@@ -52,3 +52,11 @@ Quantum Computing
 - not science fiction lol 
 - IBM has over 20 real quantum computers accessible on cloud and for anyone to use
 
+5/ [Jacinda Ardern's speech at Harvard's Grad](https://www.youtube.com/watch?v=Vj3x-JUlukI) 
+
+*@ 13:00* 
+
+**Social Media matters a lot** 
+- what we seek we are served 
+- it's the rules of the game and the way we engage with it that matters 
+- "The time has come for social media companies and other online providers to recognize their power and to act on it. That means upholding their own basic terms of service. That means recognizing the role they play in constantly curating and shaping the online environments that we're in. That algorithmic processes make choices and decisions for us, what we see and where we are directed. At best that means that the user experience is personalized. But at worst it means the user experience can be radicalized. It means that there is a pressing and urgent need for responsible algorithm development and deployment..."  
