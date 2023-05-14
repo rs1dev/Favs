@@ -1,5 +1,7 @@
 # Favs
 
+## People 
+
 1/ [John Schulman](https://news.berkeley.edu/2023/04/20/chatgpt-architect-berkeley-alum-john-schulman-on-his-journey-with-ai/)
 ### Why did you choose Berkeley for graduate school?
 
@@ -60,3 +62,9 @@ Quantum Computing
 - what we seek we are served 
 - it's the rules of the game and the way we engage with it that matters 
 - "The time has come for social media companies and other online providers to recognize their power and to act on it. That means upholding their own basic terms of service. That means recognizing the role they play in constantly curating and shaping the online environments that we're in. That algorithmic processes make choices and decisions for us, what we see and where we are directed. At best that means that the user experience is personalized. But at worst it means the user experience can be radicalized. It means that there is a pressing and urgent need for responsible algorithm development and deployment..."  
+
+
+
+## Quotes 
+- "For better it is to dare mighty things, to win glorious triumphs, even though checkered by failure, than to take rank with those poor spirits who neither enjoy much nor suffer much" - Theodore Roosevelt 
+
